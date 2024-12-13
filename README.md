@@ -1,1 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3x4cA5XCh9I?si=qqRY0N4UsDoSxIKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=3x4cA5XCh9I" target="_blank">
+  <img src="https://github.com/krillan49/PZDC_dungeon_2_arts/blob/gif/load_game_youtube.gif" alt="Demo" width="100%" border="10px">
+</a>
